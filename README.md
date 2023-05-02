@@ -1,7 +1,7 @@
 ### COMP 1073 – Client-Side JavaScript
 
 # LAB 6
-## Variables, Operators and Strings
+## World’s Best Burger
 
 #### DESCRIPTION
 Using the code provided, create a JavaScript function that permits the creation of a hamburger object.
