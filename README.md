@@ -18,8 +18,10 @@ Consider that a hamburger has many options (7 marks) – that might include
 - single, double, or triple patty,
 - Pickles, hot peppers, olives etc.
 
-Make sure that the function allows for the output of a sentence that describes the hamburger,
-too (1 mark). Have fun!
+Make sure that the function allows for the output of a sentence that describes the hamburger, too (1 mark). Have fun!
+
+Note:
+You will have to create a new .js file. You can keep the file in a new "js" directory. The file can have any name that you like but make sure to include it in your html file.
 
 #### EVALUATION
 <table>
