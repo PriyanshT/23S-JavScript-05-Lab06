@@ -10,13 +10,13 @@ Using the code provided, create a JavaScript function that permits the creation 
 Observe carefully the last function that we created together in the in-class lesson (oop.html). Using this as your guide, create your own function (2 marks) that would allow for the creation of any number of interesting hamburgers. 
 
 Consider that a hamburger has many options (7 marks) – that might include
-• different types of buns,
-• vegetable garnishes,
-• assortments of cheeses,
-• specialty sauces,
-• different meat patties (beef, chicken, vegetarian),
-• single, double, or triple patty,
-• Pickles, hot peppers, olives etc.
+- different types of buns,
+- vegetable garnishes,
+- assortments of cheeses,
+- specialty sauces,
+- different meat patties (beef, chicken, vegetarian),
+- single, double, or triple patty,
+- Pickles, hot peppers, olives etc.
 
 Make sure that the function allows for the output of a sentence that describes the hamburger,
 too (1 mark). Have fun!
